@@ -4,59 +4,58 @@
 
 Cloud and DevOps professional with 5 years of experience building and supporting enterprise cloud platforms, CI/CD pipelines, Kubernetes environments, and Infrastructure as Code solutions.
 
-### 🚀 Current Focus
+---
 
-* Platform Engineering
-* Kubernetes
-* Terraform
-* GitOps
-* Cloud Automation
-* Site Reliability Engineering (SRE)
+## 🚀 Tech Stack
 
-### ☁️ Cloud Platforms
+**Cloud:** Azure, AWS
 
-* Microsoft Azure
-* Amazon Web Services (AWS)
+**DevOps & CI/CD:** Azure DevOps, Jenkins, Git, GitHub
 
-### ⚙️ DevOps & Automation
+**Containers & Orchestration:** Docker, Kubernetes
 
-* Azure DevOps
-* Jenkins
-* GitHub Actions
-* Git
+**Infrastructure as Code:** Terraform
 
-### 📦 Containers & Orchestration
+**Monitoring & Observability:** Prometheus, Grafana
 
-* Docker
-* Kubernetes
+---
 
-### 🏗 Infrastructure as Code
+## 📌 Featured Projects
 
-* Terraform
+### 🚀 AWS Jenkins CI/CD Pipeline
 
-### 📊 Monitoring & Observability
-
-* Prometheus
-* Grafana
-
-### 🔒 Security & Quality
-
-* SonarQube
-* Trivy
-
-### 📌 Featured Projects
-
-#### AWS Jenkins CI/CD Pipeline
-
-Production-style CI/CD pipeline using AWS EC2, Jenkins, Maven, Docker, DockerHub, and Jenkins Shared Libraries.
+Production-style CI/CD pipeline implemented on AWS EC2 using Jenkins, Maven, Docker, DockerHub, GitHub, and Jenkins Shared Libraries.
 
 Repository:
 https://github.com/pvenki8890/AWS-Jenkins-DevSecOps-Pipeline
 
-### 📫 Connect With Me
+### 🚀 DevOps Projects Portfolio
+
+Collection of hands-on DevOps, CI/CD, Docker, Kubernetes, and Cloud projects.
+
+Repository:
+https://github.com/pvenki8890/DevOps-Projects-Portfolio
+
+---
+
+## 🎯 Currently Learning
+
+- Terraform
+- Kubernetes
+- GitOps
+- Platform Engineering
+- Site Reliability Engineering (SRE)
+
+---
+
+## 📫 Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/v-0b3699225/
 
 GitHub:
 https://github.com/pvenki8890
+
+---
+
+⭐ Open to Global Remote Opportunities
