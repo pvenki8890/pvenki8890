@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Papisetti Venkatesh 👋
 
-<!--
-**pvenki8890/pvenki8890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Platform Engineer | DevOps Engineer | Site Reliability Engineer
 
-Here are some ideas to get you started:
+Cloud and DevOps professional with 5 years of experience building and supporting enterprise cloud platforms, CI/CD pipelines, Kubernetes environments, and Infrastructure as Code solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+
+* Platform Engineering
+* Kubernetes
+* Terraform
+* GitOps
+* Cloud Automation
+* Site Reliability Engineering (SRE)
+
+### ☁️ Cloud Platforms
+
+* Microsoft Azure
+* Amazon Web Services (AWS)
+
+### ⚙️ DevOps & Automation
+
+* Azure DevOps
+* Jenkins
+* GitHub Actions
+* Git
+
+### 📦 Containers & Orchestration
+
+* Docker
+* Kubernetes
+
+### 🏗 Infrastructure as Code
+
+* Terraform
+
+### 📊 Monitoring & Observability
+
+* Prometheus
+* Grafana
+
+### 🔒 Security & Quality
+
+* SonarQube
+* Trivy
+
+### 📌 Featured Projects
+
+#### AWS Jenkins CI/CD Pipeline
+
+Production-style CI/CD pipeline using AWS EC2, Jenkins, Maven, Docker, DockerHub, and Jenkins Shared Libraries.
+
+Repository:
+https://github.com/pvenki8890/AWS-Jenkins-DevSecOps-Pipeline
+
+### 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/v-0b3699225/
+
+GitHub:
+https://github.com/pvenki8890
