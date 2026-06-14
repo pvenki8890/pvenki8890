@@ -38,7 +38,6 @@ https://github.com/pvenki8890/DevOps-Projects-Portfolio
 **LinkedIn:**
 https://www.linkedin.com/in/v-0b3699225/
 
-**Email:**  
-pvenki8890@gmail.com
+**Email:** pvenki8890@gmail.com
 
 ⭐ Open to Global Remote Platform Engineer, DevOps Engineer, Cloud Engineer, and Site Reliability Engineer Opportunities
