@@ -1,6 +1,6 @@
 # Hi, I'm Papisetti Venkatesh 👋
 
-## Platform Engineer | DevOps Engineer
+## Platform Engineer | DevOps Engineer | Azure | AWS | Kubernetes | Terraform
 
 Platform & DevOps Engineer with 5+ years of experience building and supporting cloud infrastructure, Kubernetes platforms, CI/CD pipelines, and Infrastructure as Code solutions across Azure and AWS.
 
